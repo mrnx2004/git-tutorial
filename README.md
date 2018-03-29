@@ -1,4 +1,6 @@
 # Git教程
 
-
-cccccccccccccccccc
+-featrue-A
+-fix-B
+-feature-C
+it's right
